@@ -1,5 +1,4 @@
 import turtle                    # Importing the turtle library
-import tkinter as TK
 window_color = input("Enter the desired color for your windows: ")
 alex_color = input("Alex, enter your color please: ")
 alex_pensize_str = input("Alex, enter your pen size please: ")
